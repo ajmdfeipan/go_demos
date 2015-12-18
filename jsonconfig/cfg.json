@@ -1,0 +1,11 @@
+{
+    "debug": true,
+    "hostname": "xxoo",
+
+    "plugin": {
+        "enabled": false
+    },
+    "ignore": {
+        "cpu.busy": true
+    }
+}
